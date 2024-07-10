@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+
+/*barra superior*/
+
+.pp0 .p1{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 10vw;
+    color: #fff;
+}
+.pp0 .p2{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 60vw;
+    color: #fff;
+}
+.pp0 .p3{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 66vw;
+    color: #fff;
+}
+.pp0 .p4{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 72vw;
+    color: #fff;
+}
+.pp0 .p5{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 78vw;
+    color: #fff;
+}
+
+/*parte 1*/
+
+.pp1 .p1{
+    text-align: center;
+    color: #fff;
+    margin-top: 10vw;
+    font-size: 4vw;
+}
+.pp1 .p2{
+    margin-top: 4vw;
+    text-align: center;
+}
+.pp1 .p3{
+    margin-top: 4vw;
+    text-align: center;
+    color: #fff;
+    font-size: 4vw;
+}
+.pp1 .p4{
+    margin-left: 47%;
+    margin-top: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 1vw;
+    background: orange;
+    font-size: 0.8vw;
+}
+
+/*PARTE DOS*/
+
+.pp2 .p1{
+    margin-left: 5vw;
+}
+.pp2 .p2{
+    position: absolute;
+    color: #fff;
+    margin-top: -18vw;
+    margin-left: 55vw;
+    font-size: 3vw;
+}
+.pp2 .p3{
+    position: absolute;
+    color: #fff;
+    width: 28vw;
+    font-size: 1vw;
+    margin-top: -14vw;
+    margin-left: 55vw
+}
+.pp2 .p4{
+    position: absolute;
+    margin-left: 55vw;
+    margin-top: -9vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 1vw;
+    background: orange;
+    font-size: 0.7vw;
+}
+
+/*parte tres*/
+
+.pp3 .p1{
+    margin-top: 5vw;
+    color: #fff;
+    margin-left: 10vw;
+    font-size: 3vw;
+    width: 25vw;
+}
+.pp3 .p2{
+    color: #fff;
+    margin-left: 10vw;
+    font-size: 1vw;
+}
+.pp3 .p3{
+    position: absolute;
+    margin-left: 60vw;
+    margin-top: -14vw;
+}
+.pp3 .p4{
+    margin-left: 10vw;
+    margin-top: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 1vw;
+    background: orange;
+    font-size: 0.7vw;
+}
+
+/* parte cuatro */
+
+.pp4 .p1{
+    
+}
