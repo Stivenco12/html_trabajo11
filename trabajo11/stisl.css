@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    color: white;
+}
+.pp0{
+    display: flex;
+    justify-content: space-around;
+}

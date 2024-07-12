@@ -1,0 +1,437 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+
+/*barra superior*/
+
+.pp0 .p1{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 10vw;
+    color: #fff;
+    font-size: 2.5vw;
+    cursor: pointer;
+}
+.pp0 .p2{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 60vw;
+    color: #fff;
+    font-size: 1vw;
+    cursor: pointer;
+}
+.pp0 .p3{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 66vw;
+    color: #fff;
+    font-size: 1vw;
+    cursor: pointer;
+}
+.pp0 .p4{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 72vw;
+    color: #fff;
+    font-size: 1vw;
+    cursor: pointer;
+}
+.pp0 .p5{
+    position: absolute;
+    margin-top: -10vw;
+    margin-left: 78vw;
+    color: #fff;
+    font-size: 1vw;
+    cursor: pointer;
+}
+
+/*parte 1*/
+
+.pp1 .p1{
+    text-align: center;
+    color: #fff;
+    margin-top: 10vw;
+    font-size: 4vw;
+}
+.pp1 .p2{
+    margin-top: 4vw;
+    text-align: center;
+}
+.pp1 .p3{
+    margin-top: 4vw;
+    text-align: center;
+    color: #fff;
+    font-size: 4vw;
+}
+.pp1 .p4{
+    margin-left: 47%;
+    margin-top: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 1vw;
+    background: orange;
+    font-size: 0.8vw;
+}
+
+/*PARTE DOS*/
+
+.pp2 .p1{
+    margin-left: 5vw;
+}
+.pp2 .p2{
+    position: absolute;
+    color: #fff;
+    margin-top: -18vw;
+    margin-left: 55vw;
+    font-size: 3vw;
+}
+.pp2 .p3{
+    position: absolute;
+    color: #fff;
+    width: 28vw;
+    font-size: 1vw;
+    margin-top: -14vw;
+    margin-left: 55vw
+}
+.pp2 .p4{
+    position: absolute;
+    margin-left: 55vw;
+    margin-top: -9vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 1vw;
+    background: orange;
+    font-size: 0.7vw;
+}
+
+/*parte tres*/
+
+.pp3 .p1{
+    margin-top: 5vw;
+    color: #fff;
+    margin-left: 10vw;
+    font-size: 3vw;
+    width: 25vw;
+}
+.pp3 .p2{
+    color: #fff;
+    margin-left: 10vw;
+    font-size: 1vw;
+}
+.pp3 .p3{
+    position: absolute;
+    margin-left: 60vw;
+    margin-top: -14vw;
+}
+.pp3 .p4{
+    margin-left: 10vw;
+    margin-top: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 1vw;
+    background: orange;
+    font-size: 0.7vw;
+}
+
+/* parte cuatro */
+
+.pp4 .p1{
+    margin-top: 2vw;
+    margin-left: 10vw;
+    color: #fff;
+    font-size: 2.5vw;
+}
+
+
+/* parte cuatro cuadro 1*/
+
+.pp4 .ppp1{
+    margin-top: 5vw;
+    margin-left: 12vw;
+    width: 15vw;
+    height: 25vw;
+    border: 2px solid orange;
+}
+.pp4 .ppp1 .p1{
+    position: absolute;
+    margin-top: -2.5vw;
+    margin-left: 5vw;
+}
+.pp4 .ppp1 .p2{
+    position: absolute;
+    margin-top: 4vw;
+    margin-left: 5.6vw;
+    color: #fff;
+    font-size: 1.5vw;
+}
+.pp4 .ppp1 .p3{
+    margin-top: 10vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp1 .p4{
+    margin-top: 1vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp1 .p5{
+    margin-top: 1vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp1 .p6{
+    margin-left: 4.5vw;
+    margin-top: 4vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 0.5vw;
+    background: orange;
+}
+
+/*parte cuatro cuadro dos*/
+
+.pp4 .ppp2{
+    position: absolute;
+    margin-top: -25.3vw;
+    margin-left: 45.5vw;
+    width: 15vw;
+    height: 25vw;
+    border: 2px solid orange;
+}
+.pp4 .ppp2 .p1{
+    position: absolute;
+    margin-top: -2.5vw;
+    margin-left: 4.8vw;
+}
+.pp4 .ppp2 .p2{
+    position: absolute;
+    margin-top: 4vw;
+    margin-left: 5.6vw;
+    color: #fff;
+    font-size: 1.5vw;
+}
+.pp4 .ppp2 .p3{
+    margin-top: 10vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp2 .p4{
+    margin-top: 1vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp2 .p5{
+    margin-top: 1vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp2 .p6{
+    margin-left: 4.5vw;
+    margin-top: 4vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 0.5vw;
+    background: orange;
+}
+
+/*parte cautro cuadro tres*/
+
+.pp4 .ppp3{
+    position: absolute;
+    margin-top: -25.3vw;
+    margin-left: 76vw;
+    width: 15vw;
+    height: 25vw;
+    border: 2px solid orange;
+}
+.pp4 .ppp3 .p1{
+    position: absolute;
+    margin-top: -2.5vw;
+    margin-left: 5vw;
+}
+.pp4 .ppp3 .p2{
+    position: absolute;
+    margin-top: 4vw;
+    margin-left: 5.6vw;
+    color: #fff;
+    font-size: 1.5vw;
+}
+.pp4 .ppp3 .p3{
+    margin-top: 10vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp3 .p4{
+    margin-top: 1vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp3 .p5{
+    margin-top: 1vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp4 .ppp3 .p6{
+    margin-left: 4.5vw;
+    margin-top: 4vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+    text-align: center;
+    color: black;
+    width: 5vw;
+    padding: 0.5vw;
+    background: orange;
+}
+
+/*parte cautro linea*/
+
+.pp4 .ppp4{
+    margin-left: 36vw;
+    margin-top: 5vw;
+    width: 35vw;
+    border: 2px solid orange;
+}
+
+/*parte cinco primer cuadro*/
+
+.pp5 .pppp1 {
+    margin-top: 5vw;
+}
+.pp5 .pppp1 .p1{
+    position: absolute;
+    color: #fff;
+    font-size: 2vw;
+    margin-left: 12vw;
+}
+.pp5 .pppp1 .p2{
+    position: absolute;
+    color:  orange;
+    font-size: 2vw;
+    margin-left: 17vw;
+}
+.pp5 .pppp1 .p3{
+    position: absolute;
+    color: #fff;
+    font-size: 1vw;
+    margin-top: 3vw;
+    margin-left: 8vw;
+}
+.pp5 .pppp1 .p4{
+    position: absolute;
+    color: #fff;
+    font-size: 1vw;
+    margin-top: 4vw;
+    margin-left: 6.5vw;
+}
+
+/*parte cinco cuadrado dos*/
+
+.pp5 .pppp2 {
+    margin-left: 38vw;
+    margin-top: 5vw;
+}
+.pp5 .pppp2 .p1{
+    position: absolute;
+    color: #fff;
+    font-size: 2vw;
+    margin-left: 11vw;
+}
+.pp5 .pppp2 .p2{
+    position: absolute;
+    color:  orange;
+    font-size: 2vw;
+    margin-left: 18vw;
+}
+.pp5 .pppp2 .p3{
+    position: absolute;
+    color: #fff;
+    font-size: 1vw;
+    margin-top: 3vw;
+    margin-left: 8vw;
+}
+.pp5 .pppp2 .p4{
+    position: absolute;
+    color: #fff;
+    font-size: 1vw;
+    margin-top: 4vw;
+    margin-left: 6.5vw;
+}
+/*parte cinco cuadrado tres*/
+
+.pp5 .pppp3 {
+    margin-left: 68vw;
+    margin-top: 5vw;
+}
+.pp5 .pppp3 .p1{
+    position: absolute;
+    color: #fff;
+    font-size: 2vw;
+    margin-left: 8vw;
+}
+.pp5 .pppp3 .p2{
+    position: absolute;
+    color:  orange;
+    font-size: 2vw;
+    margin-left: 16vw;
+}
+.pp5 .pppp3 .p3{
+    position: absolute;
+    color: #fff;
+    font-size: 1vw;
+    margin-top: 3vw;
+    margin-left: 8vw;
+}
+.pp5 .pppp3 .p4{
+    position: absolute;
+    color: #fff;
+    font-size: 1vw;
+    margin-top: 4vw;
+    margin-left: 6.5vw;
+}
+
+/*parte seis */
+
+.pp6 .p1{
+    margin-top: 20vw;
+    margin-left: 36vw;
+    width: 35vw;
+    border: 2px solid orange;
+}
+.pp6 .p2{
+    margin-left: 6vw;
+    margin-top: 0.5vw;
+    text-align: center;
+    color: #fff;
+    font-size: 1vw;
+}
+.pp6 .p3{
+    margin-top: -1.1vw;
+    margin-left: 60.5vw;
+    position: absolute;
+    color: orange;
+    font-size: 1vw;
+}
